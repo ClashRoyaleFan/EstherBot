@@ -1,7 +1,10 @@
 {
-    "BONJOUR": "Bienvenue sur mon profil! Pour en savoir plus sur moi tapez OBJECTIF",
-    "PROFIL APEC": "Que voulez vous savoir sur moi?",
-    "HELLO": "Hey TOTO, I'm so glad you set EstherBot up!",
+    "BONJOUR": "Bienvenue sur mon profil Apec de Thibault Jardin ! Pour en savoir plus sur moi tapez IDENTITE",
+    "IDENTITE": "Thibault Jardin - Directeur des achats - Expertise en négociation interculturelle 
+MAI – Kedge Business School
+Bilingue Anglais 
+tapez SOUHTAITS pour savoir ce que je recherche",
+    "HELLO": "Bonjour je suis le robot du profil Apec de Thibault Jardin.  ",
     "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
